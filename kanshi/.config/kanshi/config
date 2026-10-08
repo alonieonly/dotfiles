@@ -1,0 +1,8 @@
+profile desktop {
+    output HDMI-A-1 mode 1920x1080@144.000 position 0,0
+    output eDP-1 mode 1366x768@60.003 position 462,1080
+}
+
+profile mobile {
+    output eDP-1 mode 1366x768@60.003 position 0,0
+}
